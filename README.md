@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @emanems27
+- 🌱 I’m currently learning java
+- 😄 Pronouns: she / her
