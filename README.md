@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @emanems27
-- 🌱 I’m currently learning java
-- 😄 Pronouns: she / her
+💗📂 Estudiante de Informática en TIC en EPI en Gijón 
+🤍 subo repositorios de las asignaturas que he ido haciendo
+
+
+
